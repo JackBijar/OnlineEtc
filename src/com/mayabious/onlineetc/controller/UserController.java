@@ -4,8 +4,8 @@ public class UserController {
 
 	public static void main(String[] args) 
 	{
-		System.out.println("Add a Class UserController in com.mayabious.controller Package");
-
+		System.out.println("Add a Class UserController in com.mayabious.controller Package -- Second Time Commit");
+		System.out.println("Thanks");
 	}
 
 }
